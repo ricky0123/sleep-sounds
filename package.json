@@ -1,0 +1,23 @@
+{
+  "name": "sleep-sound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.0",
+    "vite-plugin-solid": "^2.6.1"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.15"
+  }
+}

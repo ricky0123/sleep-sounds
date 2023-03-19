@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sleep-sound"
+version = "0.1.0"
+description = ""
+authors = ["ricky <rickycontact9@gmail.com>"]
+readme = "README.md"
+packages = [{include = "sleep_sound"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydub = "^0.25.1"
+numpy = "^1.24.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.11.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

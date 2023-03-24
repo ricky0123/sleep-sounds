@@ -5,5 +5,12 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#000",
-  "description": "Ambient noise to help you sleep."
+  "description": "Ambient noise to help you sleep.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Sleep sounds",
+  "short_name": "Sleep sounds",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000",
+  "description": "Ambient noise to help you sleep."
+}

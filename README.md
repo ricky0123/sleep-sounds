@@ -1,1 +1,1 @@
-A progressive web app that plays ambient noise to help you sleep.
+A web app that plays ambient noise to help you sleep.
